@@ -1,17 +1,17 @@
-<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="80" align="center"> I'm Brenda Briseño
+<h1 align="center"><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="80" align="center"> I'm Brenda Briseño<h1>
 
-<!--
-**BrendaBriseuoUNAM/BrendaBriseuoUNAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### About me
+  
+  - I studied Computer Engineering at UNAM <img src="https://www.24-horas.mx/wp-content/uploads/2022/01/Diseno-sin-titulo-2022-01-24T094248.970.png.webp" width="40">
 
-colle degree<img src="https://www.24-horas.mx/wp-content/uploads/2022/01/Diseno-sin-titulo-2022-01-24T094248.970.png.webp" width="80">
-Here are some ideas to get you started:
+  Education
+Bachelor in Computer Engineering
+UNAM , CDMX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Key Skills
+ 
+Computational Research & Development
+Data Base
+Teamwork
+
