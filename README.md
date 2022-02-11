@@ -1,8 +1,9 @@
-![](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif) IM, Brenda Briseño
+<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="80" align="center"> I'm Brenda Briseño
 
 <!--
 **BrendaBriseuoUNAM/BrendaBriseuoUNAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+colle degree<img src="https://www.24-horas.mx/wp-content/uploads/2022/01/Diseno-sin-titulo-2022-01-24T094248.970.png.webp" width="80">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
